@@ -1,0 +1,6 @@
+{
+  "name": "Velyxo Foods",
+  "description": "Luxury Catering for corporate events, weddings, and private celebrations by VELYXO FOODS LLP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
